@@ -4,7 +4,7 @@ IST 331 project for team Sandustfree. Focuses on LCD screen cleaning best practi
 Authored for IST 331 Spring 2015 Penn State Hazleton curriculum.
 
 ## Installation instructions
-1. Download and install (Git)[http://git-scm.com/].
+1. Download and install [Git](http://git-scm.com/).
 2. Download and install [Node.js](http://nodejs.org/).
 3. Run `npm install -g bower`.
 4. Run `npm install -g grunt-cli`.
