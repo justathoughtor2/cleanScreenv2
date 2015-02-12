@@ -7,11 +7,11 @@ CleanScreenApp.config(['$routeProvider',
   function($routeProvider) {
     $routeProvider
       .when('/steps', {
-        templateUrl: 'steps/steps.html',
+        templateUrl: 'partials/steps.html',
         controller: 'StepsController'
       })
       .when('/steps/:stepId', {
-        templateUrl: 'steps/step-details.html',
+        templateUrl: 'partials/step-details.html',
         controller: 'StepDetailsController'
       })
       .otherwise({
