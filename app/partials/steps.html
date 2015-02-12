@@ -1,10 +1,10 @@
 <div class="row">
   <div class="col-md-12">
-    <ul class="steps">
+    <ol class="steps">
       <li ng-repeat="step in steps | filter:query | orderBy:orderProp">
-        <a href="{{step.id}}"><h2>{{step.name}}</h2></a>
+        <a href="#/steps/{{step.id}}">{{step.name}}</a>
         <p>{{step.snippet}}</p>
       </li>
-    </ul>
+    </ol>
   </div>
 </div>

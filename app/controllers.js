@@ -10,5 +10,5 @@ CleanScreenControllers
     }])
   .controller('StepDetailsController', ['$scope', '$routeParams',
     function($scope, $routeParams) {
-      $scope.stepId = $routeParams.routeId;
+      $scope.stepId = $routeParams.stepId;
     }]);
