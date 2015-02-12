@@ -1,0 +1,20 @@
+[
+  {
+    "number": 1,
+    "id": "hold-device",
+    "name": "Hold device",
+    "snippet": "Hold the device in your off-hand."
+  },
+  {
+    "number": 2,
+    "id": "hold-spray",
+    "name": "Hold spray",
+    "snippet": "Hold the cleaning spray in your dominant hand."
+  },
+  {
+    "number": 3,
+    "id": "spray-device",
+    "name": "Spray device",
+    "snippet": "Spray the device with cleaner."
+  }
+]

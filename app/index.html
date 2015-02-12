@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html ng-app="CleanScreenApp">
+<head>
+  <title>Sandustfree's LCD Screen-Cleaning Fun-Fest!</title>
+
+  <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" type="text/css" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css" />
+  <link rel="stylesheet" type="text/css" href="bower_components/components-font-awesome/css/font-awesome.min.css" />
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#cleanScreen-nav1">
+        <span class="sr-only">Toggle navigation</span>
+        <i class="fa fa-bars fa-3x"></i>
+      </button>
+      <a class="navbar-brand" href="" ng-click="">Sandustfree</a>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="jumbotron">
+          <h1>Sandustfree's LCD Screen-Cleaning Fun-Fest!</h1>
+        </div>
+      </div>
+    </div>
+    <div ng-view></div>
+  </div>
+
+  <script src="bower_components/jquery/dist/jquery.min.js" type="text/javascript"></script>
+  <script src="bower_components/angular/angular.min.js" type="text/javascript"></script>
+  <script src="bower_components/angular_route/angular-route.min.js" type="text/javascript"></script>
+  <script src="bower_components/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="app.js" type="text/javascript"></script>
+  <script src="controllers.js" type="text/javascript"></script>
+</body>
+
+</html>
