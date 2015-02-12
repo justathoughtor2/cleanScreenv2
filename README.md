@@ -12,6 +12,6 @@ Authored for IST 331 Spring 2015 Penn State Hazleton curriculum.
 6. Change directories to the cloned repository: `cd cleanScreenv2`.
 7. Run `npm install` to install dependencies. `bower install` will be run automagically.
 8. Run `npm start` to start the local development server.
-9. Navigate to `http://localhost:8000/app/index.html`.
+9. Navigate to `http://localhost:8000/app/index.html` in your browser of choice.
 10. ????
 11. Profit!!
