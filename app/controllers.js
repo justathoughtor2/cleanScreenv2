@@ -8,7 +8,9 @@ CleanScreenControllers
       });
       $scope.orderProp = 'number';
     }])
-  .controller('StepDetailsController', ['$scope', '$routeParams',
-    function($scope, $routeParams) {
-      $scope.stepId = $routeParams.stepId;
+  .controller('StepDetailsController',
+    ['$scope', '$routeParams', '$http', function($scope, $routeParams, $http) {
+      $http.get('partials/' + $routeParams.stepId + '.json').success(function(data) {
+        $scope.step = data;
+      });
     }]);
