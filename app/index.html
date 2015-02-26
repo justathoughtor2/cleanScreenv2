@@ -10,14 +10,22 @@
 
 <body>
   <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#cleanScreen-nav1">
-        <span class="sr-only">Toggle navigation</span>
-        <i class="fa fa-bars fa-3x"></i>
-      </button>
-      <a class="navbar-brand" href="#/steps" ng-click="">Sandustfree</a>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#cleanScreen-nav1">
+            <span class="sr-only">Toggle navigation</span>
+            <i class="fa fa-bars fa-3x"></i>
+          </button>
+          <a class="navbar-brand" href="#/steps" ng-click="">Sandustfree</a>
+        </div>
+      </div>
     </div>
-    <div ng-view></div>
+    <div class="row">
+      <div class="col-md-12">
+        <div ng-view></div>
+      </div>
+    </div>
   </div>
 
   <script src="bower_components/jquery/dist/jquery.min.js" type="text/javascript"></script>
