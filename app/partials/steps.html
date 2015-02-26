@@ -3,11 +3,15 @@
     <div class="jumbotron">
       <h1>Sandustfree's LCD Screen-Cleaning Fun-Fest!</h1>
     </div>
-    <ol class="steps">
-      <li ng-repeat="step in steps | filter:query | orderBy:'number'">
-        <a href="#/steps/{{step.id}}">{{step.name}}</a>
-        <p>{{step.snippet}}</p>
-      </li>
-    </ol>
+    <div class="row">
+      <div class="col-md-7 col-sm-12">
+        <ol class="steps">
+          <li ng-repeat="step in steps | filter:query | orderBy:'number'">
+            <a href="#/steps/{{step.id}}">{{step.name}}</a>
+            <p>{{step.snippet}}</p>
+          </li>
+        </ol>
+      </div>
+    </div>
   </div>
 </div>
