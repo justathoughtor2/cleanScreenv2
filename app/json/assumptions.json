@@ -1,0 +1,14 @@
+[
+  {
+    "number": 1,
+    "id": "able-bodied",
+    "name": "Able-bodied",
+    "snippet": "Users are able bodied."
+  },
+  {
+    "number": 2,
+    "id": "intelligent",
+    "name": "Average intelligence",
+    "snippet": "Users are of average intelligence or greater."
+  }
+]

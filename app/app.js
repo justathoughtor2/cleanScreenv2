@@ -14,6 +14,10 @@ CleanScreenApp.config(['$routeProvider',
         templateUrl: 'partials/step-details.html',
         controller: 'StepDetailsController'
       })
+      .when('/assumptions', {
+        templateUrl: 'partials/assumptions.html',
+        controller: 'AssumptionsController'
+      })
       .otherwise({
         redirectTo: '/steps'
       })
