@@ -20,5 +20,5 @@ CleanScreenApp.config(['$routeProvider',
       })
       .otherwise({
         redirectTo: '/steps'
-      })
+      });
   }]);
