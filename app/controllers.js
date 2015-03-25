@@ -15,7 +15,7 @@ CleanScreenControllers
       });
     }])
   .controller('AssumptionsController',
-    ['$scope', '$routeParams', '$http', function($scope, $routeParams, $http) {
+    ['$scope', '$http', function($scope, $http) {
       $http.get('json/assumptions.json').success(function(data) {
         $scope.assumptions = data;
       });
