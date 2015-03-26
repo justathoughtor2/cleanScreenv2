@@ -3,6 +3,7 @@
     <ul class="mandatorySupplies">
       <li ng-repeat="mandatorySupply in mandatorySupplies | filter:query | orderBy:'number'" style="list-style-type: none;">
         <h2>{{mandatorySupply.name}}</h2>
+        <p>{{mandatorySupply.details}}</p>
       </li>
     </ul>
   </div>

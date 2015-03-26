@@ -3,12 +3,18 @@
     "number": 1,
     "id": "able-bodied",
     "name": "Able-bodied",
-    "snippet": "Users are able bodied."
+    "snippet": "We assume that users are not physically disabled in any way that would interfere with the process."
   },
   {
     "number": 2,
     "id": "intelligent",
-    "name": "Average intelligence",
-    "snippet": "Users are of average intelligence or greater."
+    "name": "Average Intelligence",
+    "snippet": "We assume that users are of average intelligence or greater."
+  },
+  {
+    "number": 3,
+    "id": "measure",
+    "name": "Understands to take a fluid measurement",
+    "snippet": "We assume that the user can use a measuring device (such as a measuring cup) for measuring fluids."
   }
 ]

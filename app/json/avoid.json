@@ -3,7 +3,7 @@
     "number": 1,
     "id": "crt-screen",
     "name": "CRT (Cathode Ray Tube) screen",
-    "snippet": ""
+    "snippet": "The procedure for cleaning a CRT screen is different; this guide does not include such a procedure."
   },
   {
     "number": 2,
@@ -15,13 +15,13 @@
     "number": 3,
     "id": "windex",
     "name": "Windex",
-    "snippet": ""
+    "snippet": "Entirely too harsh to use on an LCD screen."
   },
   {
     "number": 4,
     "id": "bleach",
     "name": "Bleach",
-    "snippet": ""
+    "snippet": "Entirely too harsh to use on an LCD screen."
   },
   {
     "number": 5,

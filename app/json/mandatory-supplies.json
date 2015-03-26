@@ -2,11 +2,13 @@
   {
     "number": 1,
     "id": "nonabrasive-cloth",
-    "name": "Nonabrasive cloth"
+    "name": "Nonabrasive cloth",
+    "details": "Ideally one should use a microfiber cloth. In the absence of said cloth, use a simple cloth that is non abrasive; do not use paper towels for example."
   },
   {
     "number": 2,
     "id": "LCD screen",
-    "name": "LCD (Liquid Crystal Display) screen in need of cleaning"
+    "name": "LCD (Liquid Crystal Display) screen in need of cleaning",
+    "details": "That is the whole goal of this endeavor."
   }
 ]

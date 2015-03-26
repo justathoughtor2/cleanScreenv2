@@ -3,6 +3,7 @@
     <ul class="optionalSupplies">
       <li ng-repeat="optionalSupply in optionalSupplies | filter:query | orderBy:'number'" style="list-style-type: none;">
         <h2>{{optionalSupply.name}}</h2>
+        <p>{{optionalSupply.details}}<p>
       </li>
     </ul>
   </div>

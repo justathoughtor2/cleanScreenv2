@@ -34,3 +34,8 @@ CleanScreenApp.config(['$routeProvider',
         redirectTo: '/steps'
       });
   }]);
+
+var Linking = angular.module('Linking', [
+  'ngRoute',
+  'LinkingControllers'
+]);
