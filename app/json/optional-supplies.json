@@ -1,0 +1,27 @@
+[
+  {
+    "number": 1,
+    "id": "distilled-water",
+    "name": "Distilled Water"
+  },
+  {
+    "number": 2,
+    "id": "spray-bottle",
+    "name": "Spray Bottle"
+  },
+  {
+    "number": 3,
+    "id": "white-vinegar",
+    "name": "White Vinegar"
+  },
+  {
+    "number": 4,
+    "id": "isopropyl-alcohol",
+    "name": "Isopropyl Alcohol"
+  },
+  {
+    "number": 5,
+    "id": "measuring-cup",
+    "name": "Measuring Cup"
+  }
+]

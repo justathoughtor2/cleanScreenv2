@@ -3,5 +3,10 @@
     "number": 1,
     "id": "nonabrasive-cloth",
     "name": "Nonabrasive cloth"
+  },
+  {
+    "number": 2,
+    "id": "LCD screen",
+    "name": "LCD (Liquid Crystal Display) screen in need of cleaning"
   }
 ]

@@ -22,6 +22,14 @@ CleanScreenApp.config(['$routeProvider',
         templateUrl: 'partials/mandatory-supplies.html',
         controller: 'MandatorySuppliesController'
       })
+      .when('/optional-supplies', {
+        templateUrl: 'partials/optional-supplies.html',
+        controller: 'OptionalSuppliesController'
+      })
+      .when('/avoid', {
+        templateUrl: 'partials/avoid.html',
+        controller: 'ThingsToAvoidController'
+      })
       .otherwise({
         redirectTo: '/steps'
       });

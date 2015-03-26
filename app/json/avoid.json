@@ -1,0 +1,32 @@
+[
+  {
+    "number": 1,
+    "id": "crt-screen",
+    "name": "CRT (Cathode Ray Tube) screen",
+    "snippet": ""
+  },
+  {
+    "number": 2,
+    "id": "tap-water",
+    "name": "Tap Water",
+    "snippet": "Tap water contains minerals and similar things which can leave harmful deposits on your screen."
+  },
+  {
+    "number": 3,
+    "id": "windex",
+    "name": "Windex",
+    "snippet": ""
+  },
+  {
+    "number": 4,
+    "id": "bleach",
+    "name": "Bleach",
+    "snippet": ""
+  },
+  {
+    "number": 5,
+    "id": "other-cleaners",
+    "name": "Other chemical cleaning agents",
+    "snippet": "Chemical cleaning agents like those above are harsh and can damage the screen severly."
+  }
+]

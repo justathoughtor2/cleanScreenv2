@@ -27,4 +27,18 @@ CleanScreenControllers
         $scope.mandatorySupplies = data;
       });
       $scope.orderProp = 'number';
-    }]);
+    }])
+  .controller('OptionalSuppliesController',
+  ['$scope', '$http', function($scope, $http) {
+    $http.get('json/optional-supplies.json').success(function(data) {
+      $scope.optionalSupplies = data;
+    });
+    $scope.orderProp = 'number';
+  }])
+  .controller('ThingsToAvoidController',
+  ['$scope', '$http', function($scope, $http) {
+    $http.get('json/avoid.json').success(function(data) {
+      $scope.avoids = data;
+    });
+    $scope.orderProp = 'number';
+  }])

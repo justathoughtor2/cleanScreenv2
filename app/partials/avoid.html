@@ -1,0 +1,10 @@
+<div class="row">
+  <div class="col-md-12">
+    <ul class="avoids">
+      <li ng-repeat="avoid in avoids | filter:query | orderBy:'number'" style="list-style-type: none;">
+        <h2>{{avoid.name}}</h2>
+        <p>{{avoid.snippet}}</p>
+      </li>
+    </ul>
+  </div>
+</div>

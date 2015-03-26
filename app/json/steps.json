@@ -1,20 +1,44 @@
 [
   {
     "number": 1,
-    "id": "hold-device",
-    "name": "Hold device",
-    "snippet": "Hold the device in your non-dominant hand."
+    "id": "check-supplies",
+    "name": "Check Supplies",
+    "snippet": "Make certain you have, at the very least, all of the mandatory supplies within reach."
   },
   {
     "number": 2,
-    "id": "hold-spray",
-    "name": "Hold spray",
-    "snippet": "Hold the cleaning spray in your dominant hand."
+    "id": "safety-check",
+    "name": "Safety Check",
+    "snippet": "Make certain whatever device you are cleaning is completely powered off and unplugged (for safety's sake)."
   },
   {
     "number": 3,
-    "id": "spray-device",
-    "name": "Spray device",
-    "snippet": "Spray the device with cleaner."
+    "id": "dry-wipe",
+    "name": "Dry Wipe",
+    "snippet": "Attempt to clean the screen solely with the cleaning cloth. Wipe with a slow and gentle touch either left and right or up and down across the screen. Avoid circular motions."
+  },
+  {
+    "number": 4,
+    "id": "cleaning-agents",
+    "name": "Cleaning Agents",
+    "snippet": "If you see dust, smears, residues, and or smudges after you've completed the steps above, you will need to use a cleaning agent as well. Depending on the cleaning items you have available, you will use different solutions to further clean the screen. Click the 'Cleaning Agents' heading above to decide which you should be using."
+  },
+  {
+    "number": 5,
+    "id": "applying-agent",
+    "name": "Applying Agent",
+    "snippet": "This step depends on whether or not you have a spray bottle. Click the 'Applying Agent' heading above to learn how to apply your cleaning agent to your cloth with or without the spray bottle."
+  },
+  {
+    "number": 6,
+    "id": "wet-cloth",
+    "name": "Final Clean",
+    "snippet": "Wipe the screen once more, the same way as outlined in step 3 using the portion of the cloth you applied the cleaning agent to."
+  },
+  {
+    "number": 7,
+    "id": "drying",
+    "name": "Drying the Screen",
+    "snippet": "Finally, use the dry portion of the cloth to wipe the screen the same way as outlined in step 3 in order to prevent streaking from the cleaning agent."
   }
 ]
