@@ -1,0 +1,7 @@
+{
+  "number": 5,
+  "id": "applying-agent",
+  "name": "Applying Agent",
+  "snippet": "This step depends on whether or not you have a spray bottle.",
+  "details": "dets"
+}
