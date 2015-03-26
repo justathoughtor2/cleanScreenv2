@@ -20,4 +20,11 @@ CleanScreenControllers
         $scope.assumptions = data;
       });
       $scope.orderProp = 'number';
+    }])
+  .controller('MandatorySuppliesController',
+    ['$scope', '$http', function($scope, $http) {
+      $http.get('json/mandatory-supplies.json').success(function(data) {
+        $scope.mandatorySupplies = data;
+      });
+      $scope.orderProp = 'number';
     }]);

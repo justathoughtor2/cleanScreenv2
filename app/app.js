@@ -18,6 +18,10 @@ CleanScreenApp.config(['$routeProvider',
         templateUrl: 'partials/assumptions.html',
         controller: 'AssumptionsController'
       })
+      .when('/mandatory-supplies', {
+        templateUrl: 'partials/mandatory-supplies.html',
+        controller: 'MandatorySuppliesController'
+      })
       .otherwise({
         redirectTo: '/steps'
       });
