@@ -41,4 +41,4 @@ CleanScreenControllers
       $scope.avoids = data;
     });
     $scope.orderProp = 'number';
-  }])
+  }]);
