@@ -2,6 +2,7 @@ body {
   color: #33332D;
   background-color: #FFF8E3;
 }
-li {
-  
+.videoContainer {
+  text-align: center;
+  margin-top: 15px;
 }

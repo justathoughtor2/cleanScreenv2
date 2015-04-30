@@ -14,7 +14,7 @@
   {
     "number": 3,
     "id": "measure",
-    "name": "Understands to take a fluid measurement",
+    "name": "Understands how to take a fluid measurement",
     "snippet": "We assume that the user can use a measuring device (such as a measuring cup) for measuring fluids."
   }
 ]

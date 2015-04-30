@@ -3,30 +3,35 @@
     "number": 1,
     "id": "distilled-water",
     "name": "Distilled Water",
-    "details": "Distilled water will be pure and free of sediment that may harm your screen. An example would be a bottle of Dasani, or Deer Park water."
+    "details": "Distilled water will be pure and free of sediment that may harm your screen. An example would be a bottle of Dasani, or Deer Park water.",
+    "photo": "img/water.png"
   },
   {
     "number": 2,
     "id": "spray-bottle",
     "name": "Spray Bottle",
-    "details": "This will aid in the application of the cleaning agent to your cloth."
+    "details": "This will aid in the application of the cleaning agent to your cloth.",
+    "photo": "img/spraybottle.jpg"
   },
   {
     "number": 3,
     "id": "white-vinegar",
     "name": "White Vinegar",
-    "details": "Either this or item number four can be used in conjunction with the distilled water to make a cleaning solution for use on the screen."
+    "details": "Either this or item number four can be used in conjunction with the distilled water to make a cleaning solution for use on the screen.",
+    "photo": "img/vinegar.png"
   },
   {
     "number": 4,
     "id": "isopropyl-alcohol",
     "name": "Isopropyl Alcohol",
-    "details": "Either this or item number three can be used in conjunction with the distilled water to make a cleaning solution for use on the screen."
+    "details": "Either this or item number three can be used in conjunction with the distilled water to make a cleaning solution for use on the screen.",
+    "photo": "img/alcohol.png"
   },
   {
     "number": 5,
     "id": "measuring-cup",
     "name": "Measuring Cup",
-    "details": "This will a method to obtain the proper mix of solution to clean the screen."
+    "details": "This will a method to obtain the proper mix of solution to clean the screen.",
+    "photo": "img/measuringcup.png"
   }
 ]

@@ -3,25 +3,29 @@
     "number": 1,
     "id": "crt-screen",
     "name": "CRT (Cathode Ray Tube) screen",
-    "snippet": "The procedure for cleaning a CRT screen is different; this guide does not include such a procedure."
+    "snippet": "The procedure for cleaning a CRT screen is different; this guide does not include such a procedure.",
+    "photo": "img/old.png"
   },
   {
     "number": 2,
     "id": "tap-water",
     "name": "Tap Water",
-    "snippet": "Tap water contains minerals and similar things which can leave harmful deposits on your screen."
+    "snippet": "Tap water contains minerals and similar things which can leave harmful deposits on your screen.",
+    "photo": "img/tapwater.png"
   },
   {
     "number": 3,
     "id": "windex",
     "name": "Windex",
-    "snippet": "Entirely too harsh to use on an LCD screen."
+    "snippet": "Entirely too harsh to use on an LCD screen.",
+    "photo": "img/windex.jpg"
   },
   {
     "number": 4,
     "id": "bleach",
     "name": "Bleach",
-    "snippet": "Entirely too harsh to use on an LCD screen."
+    "snippet": "Entirely too harsh to use on an LCD screen.",
+    "photo": "img/Clorox_Bleach_products.jpg"
   },
   {
     "number": 5,
